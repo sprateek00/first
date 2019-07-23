@@ -1,2 +1,2 @@
 # first
-this is tehe first repository
+this is the first repository
